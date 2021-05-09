@@ -12,7 +12,7 @@ Link for the website:[https://anushkajain6459.github.io/Portfolio/](https://anus
 
 ## About
 
-![portfolio](images/about.png)
+![portfolio](images/About.png)
 
 
 
